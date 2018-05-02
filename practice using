@@ -1,5 +1,11 @@
 <HTML>
+<head>
+  <style>
+    div{border:1px solid black;}
+  </style>
+</head>
 <body>
 nihaoma
+<div>aaa</div>
 </body>
 </html>
